@@ -1,2 +1,2 @@
-# kindle_copy
-Script to convert and copy books to kindle
+# Kindle copy
+Script to convert books from epub, fb2 to mobi with copying it to Kindle
